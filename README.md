@@ -169,6 +169,16 @@ http://localhost:9665/
 
 ## 目录
 
+- [Web 版本](#web-版本)
+- [微信小程序版本](#微信小程序版本)
+- [Chrome 插件](#chrome-插件)
+- [Raycast 版本](#raycast-版本)
+- [Alfred 版本](#alfred-版本)
+- [Dash 版本](#dash-版本)
+- [Android 版本](#android-版本)
+- [命令行工具](#命令行工具)
+- [Docker](#docker)
+- [Vercel](#vercel)
 - [目录](#目录)
 - [Linux命令分类](#linux命令分类)
   - [文件传输](#文件传输)
@@ -191,6 +201,8 @@ http://localhost:9665/
   - [中国开源镜像站点](#中国开源镜像站点)
   - [游戏玩家发行版](#游戏玩家发行版)
 - [Team](#team)
+- [感谢所有贡献者](#感谢所有贡献者)
+- [License](#license)
 
 
 ## Linux命令分类
@@ -231,7 +243,7 @@ awk、col、colrm、comm、csplit、ed、egrep、ex、fgrep、fmt、fold、grep�
 
 ### 网络通讯
 
-dip、getty、mingetty、ppp-off、smbd(samba daemon)、telnet、uulog、uustat、uux、cu、dnsconf、efax、httpd、ip、ifconfig、mesg、minicom、nc、netconf、netconfig、netstat、ping、pppstats、samba、setserial、shapecfg(shaper configuration)、smbd(samba daemon)、statserial(status ofserial port)、talk、tcpdump、testparm(test parameter)、traceroute、tty(teletypewriter)、uuname、wall(write all)、write、ytalk、arpwatch、apachectl、smbclient(samba client)、pppsetup
+dip、getty、mingetty、ppp-off、smbd(samba daemon)、telnet、uulog、uustat、uux、cu、dnsconf、efax、httpd、ip、ifconfig、mesg、minicom、nc、netconf、netconfig、netstat、ping、ping6、pppstats、samba、setserial、shapecfg(shaper configuration)、smbd(samba daemon)、statserial(status ofserial port)、talk、tcpdump、testparm(test parameter)、traceroute、tty(teletypewriter)、uuname、wall(write all)、write、ytalk、arpwatch、apachectl、smbclient(samba client)、pppsetup
 
 ### 设备管理
 
@@ -409,8 +421,8 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/loverainye" title="loverainye">
   <img src="https://avatars.githubusercontent.com/u/2232094?v=4" width="42;" alt="loverainye"/>
 </a>
-<a href="https://github.com/rgshare" title="jeff">
-  <img src="https://avatars.githubusercontent.com/u/3303320?v=4" width="42;" alt="jeff"/>
+<a href="https://github.com/rgshare" title="rgshare">
+  <img src="https://avatars.githubusercontent.com/u/3303320?v=4" width="42;" alt="rgshare"/>
 </a>
 <a href="https://github.com/dulltackle" title="dulltackle">
   <img src="https://avatars.githubusercontent.com/u/45963660?v=4" width="42;" alt="dulltackle"/>
@@ -448,6 +460,12 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/Jeffery186" title="Shell">
   <img src="https://avatars.githubusercontent.com/u/39795988?v=4" width="42;" alt="Shell"/>
 </a>
+<a href="https://github.com/Evilrabbit520" title="Wang Jianing">
+  <img src="https://avatars.githubusercontent.com/u/25611476?v=4" width="42;" alt="Wang Jianing"/>
+</a>
+<a href="https://github.com/BingCoke" title="BingCoke">
+  <img src="https://avatars.githubusercontent.com/u/81607010?v=4" width="42;" alt="BingCoke"/>
+</a>
 <a href="https://github.com/DaYangtuo247" title="DaYangtuo247">
   <img src="https://avatars.githubusercontent.com/u/73392515?v=4" width="42;" alt="DaYangtuo247"/>
 </a>
@@ -481,6 +499,9 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/Jeremy2214" title="Jeremy2214">
   <img src="https://avatars.githubusercontent.com/u/97098763?v=4" width="42;" alt="Jeremy2214"/>
 </a>
+<a href="https://github.com/Joke-csgo" title="Joke-csgo">
+  <img src="https://avatars.githubusercontent.com/u/61868296?v=4" width="42;" alt="Joke-csgo"/>
+</a>
 <a href="https://github.com/LaudOak" title="LaudOak">
   <img src="https://avatars.githubusercontent.com/u/11486158?v=4" width="42;" alt="LaudOak"/>
 </a>
@@ -493,11 +514,14 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/mengsixing" title="孟思行">
   <img src="https://avatars.githubusercontent.com/u/13692434?v=4" width="42;" alt="孟思行"/>
 </a>
+<a href="https://github.com/LinuxZilong" title="LinuxZilong">
+  <img src="https://avatars.githubusercontent.com/u/97012545?v=4" width="42;" alt="LinuxZilong"/>
+</a>
 <a href="https://github.com/LucienShui" title="Lucien">
   <img src="https://avatars.githubusercontent.com/u/30151093?v=4" width="42;" alt="Lucien"/>
 </a>
-<a href="https://github.com/M4n5ter" title="M4n5ter">
-  <img src="https://avatars.githubusercontent.com/u/68144809?v=4" width="42;" alt="M4n5ter"/>
+<a href="https://github.com/M4n5ter" title="Wang">
+  <img src="https://avatars.githubusercontent.com/u/68144809?v=4" width="42;" alt="Wang"/>
 </a>
 <a href="https://github.com/linmingwei" title="mwei">
   <img src="https://avatars.githubusercontent.com/u/20484631?v=4" width="42;" alt="mwei"/>
@@ -586,8 +610,8 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/c2ch" title="c2ch">
   <img src="https://avatars.githubusercontent.com/u/35028011?v=4" width="42;" alt="c2ch"/>
 </a>
-<a href="https://github.com/121812" title="chen ">
-  <img src="https://avatars.githubusercontent.com/u/39209748?v=4" width="42;" alt="chen "/>
+<a href="https://github.com/121812" title="Forever121">
+  <img src="https://avatars.githubusercontent.com/u/39209748?v=4" width="42;" alt="Forever121"/>
 </a>
 <a href="https://github.com/cxalc" title="cxalc">
   <img src="https://avatars.githubusercontent.com/u/79086256?v=4" width="42;" alt="cxalc"/>
@@ -682,8 +706,8 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 <a href="https://github.com/weibk" title="weibk">
   <img src="https://avatars.githubusercontent.com/u/79395818?v=4" width="42;" alt="weibk"/>
 </a>
-<a href="https://github.com/wlf-darkmatter" title="wlf-darkmatter">
-  <img src="https://avatars.githubusercontent.com/u/62014693?v=4" width="42;" alt="wlf-darkmatter"/>
+<a href="https://github.com/wlf-darkmatter" title="王凌枫">
+  <img src="https://avatars.githubusercontent.com/u/62014693?v=4" width="42;" alt="王凌枫"/>
 </a>
 <a href="https://github.com/yanyixing" title="yanyx">
   <img src="https://avatars.githubusercontent.com/u/12455492?v=4" width="42;" alt="yanyx"/>
