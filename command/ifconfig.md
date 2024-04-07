@@ -123,6 +123,3 @@ ifconfig   #处于激活状态的网络接口
 ifconfig -a  #所有配置的网络接口，不论其是否激活
 ifconfig eth0  #显示eth0的网卡信息
 ```
-
-
-

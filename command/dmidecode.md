@@ -288,6 +288,3 @@ dmidecode|grep -A16 "Memory Device"|grep 'Speed'
 #  Speed: Unknown
 
 ```shell
-
-
-

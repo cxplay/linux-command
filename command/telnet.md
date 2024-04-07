@@ -133,5 +133,3 @@ telnet 23/udp
 ```
 service xinetd restart
 ```
-
-

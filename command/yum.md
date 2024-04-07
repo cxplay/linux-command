@@ -125,6 +125,3 @@ LANG=C # 原始语言
 LANG=zh_CN.utf8 # 切换到中文
 yum groupinstall "Chinese Support" # 添加中文语言支持
 ```
-
-
-

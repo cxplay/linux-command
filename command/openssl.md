@@ -228,5 +228,3 @@ openssl help
 openssl genrsa -aes128 -out fd.key 2048 # pem format
 openssl rsa -text -in fd.key
 ```
-
-

@@ -95,6 +95,3 @@ ftp> mget *.txt     # 下载
 ftp> put /path/readme.txt # 上传 readme.txt 文件
 ftp> mput *.txt           # 可以上传多个文件
 ```
-
-
-

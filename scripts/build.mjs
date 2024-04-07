@@ -23,7 +23,7 @@ const contributorsPath = path.resolve(process.cwd(), 'CONTRIBUTORS.svg');
     await FS.ensureDir(path.resolve(deployDir, 'css'));
     await FS.ensureDir(path.resolve(deployDir, 'c'));
     await FS.copySync(faviconPath, path.resolve(deployDir, 'img', 'favicon.ico'));
-    
+
     await FS.copyFile(path.resolve(process.cwd(), 'template', 'js', 'copy-to-clipboard.js'), path.resolve(deployDir, 'js', 'copy-to-clipboard.js'));
     await FS.copyFile(path.resolve(process.cwd(), 'node_modules/@wcj/dark-mode/main.js'), path.resolve(deployDir, 'js', 'dark-mode.min.js'));
     await FS.copyFile(path.resolve(process.cwd(), 'node_modules/@uiw/github-corners/lib/index.js'), path.resolve(deployDir, 'js', 'github-corners.js'));
@@ -95,7 +95,7 @@ const contributorsPath = path.resolve(process.cwd(), 'CONTRIBUTORS.svg');
         contributors: svgStr,
       }
     );
-    
+
     await Promise.all(jsonData.data.map(async (item, idx) => {
       item.command_length = jsonData.data.length;
       await createTmpToHTML(
@@ -107,6 +107,7 @@ const contributorsPath = path.resolve(process.cwd(), 'CONTRIBUTORS.svg');
     }));
 
   } catch (err) {
+    console.log(`\n ERROR :> ${err}\n`)
     if (err && err.message) {
       console.log(`\n ERROR :> ${err.message.red_bt}\n`)
     }
@@ -116,7 +117,7 @@ const contributorsPath = path.resolve(process.cwd(), 'CONTRIBUTORS.svg');
 
 /**
  * 返回 MD 所有路径的 Array
- * @param {String} filepath 
+ * @param {String} filepath
  */
  function readMarkdownPaths(filepath) {
   return new Promise((resolve, reject) => {

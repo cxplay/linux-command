@@ -17,7 +17,7 @@ nice [选项] [命令 [参数]...]
 ###  选项
 
 ```shell
--n：指定nice值（整数，-20（最低）~19（最高））。
+-n：指定nice值（整数，-20（最高）~19（最低））。
 ```
 
 ###  参数
@@ -37,5 +37,3 @@ nice -19 tar zcf pack.tar.gz documents
 ```shell
 nice --20 tar zcf pack.tar.gz documents
 ```
-
-

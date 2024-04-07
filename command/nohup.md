@@ -46,5 +46,3 @@ nohup wget site.com/file.zip
 ```shell
 nohup ping -c 10 baidu.com
 ```
-
-

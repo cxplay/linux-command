@@ -208,5 +208,3 @@ netstat -anpo | grep "php-cgi" | wc -l
 * ACK: (确认编号,Acknowledgement Number)是对TCP请求的确认标志,同时提示对端系统已经成功接收所有数据。
 
 * FIN: (结束标志,FINish)用来结束一个TCP回话.但对应端口仍处于开放状态,准备接收后续数据。
-
-

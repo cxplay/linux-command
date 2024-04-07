@@ -394,6 +394,3 @@ find ./ -name '__MACOSX' -depth -exec rm -rf {} \;
 ```shell
 find . -name "*.java"|xargs cat|grep -v ^$|wc -l # 代码行数统计, 排除空行
 ```
-
-
-

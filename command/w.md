@@ -39,6 +39,3 @@ w
 USER     TTY      FROM              login@   IDLE   JCPU   PCPU WHAT
 root     pts/0    222.94.97.122    20:39    1.00s  0.00s  0.00s w
 ```
-
-
-

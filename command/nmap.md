@@ -68,6 +68,3 @@ PORT   STATE service
 
 Nmap finished: 1 IP address (1 host up) scanned in 45.870 seconds
 ```
-
-
-

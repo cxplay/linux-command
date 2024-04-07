@@ -63,8 +63,3 @@ man 3 sleep
   * 开源地址: [https://github.com/tldr-pages/tldr/](https://github.com/tldr-pages/tldr/)
   * 官网: [https://tldr.sh/](https://tldr.sh/)
   * 在线版本: [https://tldr.ostera.io/](https://tldr.ostera.io/)
-
-
-
-
-

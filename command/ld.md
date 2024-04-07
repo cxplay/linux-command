@@ -33,6 +33,3 @@ ld [options] objfile ...
 ld -o <output> /lib/crt0.o hello.o -lc
 ld -o output /lib/crt0.o hello.o -lc
 ```
-
-
-

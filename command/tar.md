@@ -544,6 +544,3 @@ tar -cvf test.tar test --remove-files
 查　询：tar -jtv -f filename.tar.bz2
 解压缩：tar -jxv -f filename.tar.bz2 -C 欲解压缩的目录
 ```
-
-
-
