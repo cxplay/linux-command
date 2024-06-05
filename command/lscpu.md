@@ -84,3 +84,4 @@ CPU NODE SOCKET CORE L1d:L1i:L2:L3 ONLINE MAXMHZ    MINMHZ
 6   0    0      2    2:2:2:0       是     3600.0000 800.0000
 7   0    0      3    3:3:3:0       是     3600.0000 800.0000
 ```
+

@@ -69,3 +69,5 @@ echo '######' |cat - test.log
 ### 参考链接
 
 1. [Question about LFD key](https://superuser.com/questions/328054/is-there-an-lfd-key-on-my-keyboard)
+
+

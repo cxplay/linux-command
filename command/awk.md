@@ -977,3 +977,5 @@ awk 'BEGIN{tstamp1=mktime("2001 01 01 12 12 12");tstamp2=systime();print tstamp2
 | %y | 两位数字表示的年(99) |
 | %Y | 当前月份 |
 | %% | 百分号(%) |
+
+

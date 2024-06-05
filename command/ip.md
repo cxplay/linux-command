@@ -132,3 +132,5 @@ default via 112.124.15.247 dev eth1
 ```shell
 ip link | grep -E '^[0-9]' | awk -F: '{print $2}'
 ```
+
+

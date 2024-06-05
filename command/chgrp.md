@@ -48,3 +48,6 @@ chgrp -R mengxin /usr/meng
 ```shell
 [root@rhel ~]# chgrp newuser ah
 ```
+
+
+

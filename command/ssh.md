@@ -212,3 +212,5 @@ iptables -A OUTPUT -p tcp --sport 22 -m conntrack --ctstate ESTABLISHED -j ACCEP
 ```shell
 service iptables save
 ```
+
+

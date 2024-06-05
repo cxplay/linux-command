@@ -89,3 +89,6 @@ gzip -dr test6
 gzip -c aa > aa.gz
 gzip -dc bb.gz > bb
 ```
+
+
+

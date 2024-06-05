@@ -120,3 +120,6 @@ rcp –r webserver1:/home/root/work .Enter
 ```
 
 `.`表示当前目录。将在此目录下创建 work 目录。
+
+
+

@@ -88,3 +88,5 @@ Swap:  5144568k total,       56k used,  5144512k free,  2013180k cached
 *  56k used[使用的交换区总量],
 *  5144512k free[空闲交换区总量],
 *  2013180k cached[缓冲的交换区总量],
+
+

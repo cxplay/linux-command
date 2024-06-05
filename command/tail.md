@@ -57,3 +57,7 @@ tail -25 mail.log # 显示 mail.log 最后的 25 行
 tail -f mail.log # 等同于--follow=descriptor，根据文件描述符进行追踪，当文件改名或被删除，追踪停止
 tail -F mail.log # 等同于--follow=name --retry，根据文件名进行追踪，并保持重试，即该文件被删除或改名后，如果再次创建相同的文件名，会继续追踪
 ```
+
+
+
+

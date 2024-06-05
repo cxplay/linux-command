@@ -95,3 +95,5 @@ traceroute -q 4 www.baidu.com  # 把探测包的个数设置为值4
 traceroute -r www.baidu.com    # 绕过正常的路由表，直接发送到网络相连的主机
 traceroute -w 3 www.baidu.com  # 把对外发探测包的等待响应时间设置为3秒
 ```
+
+

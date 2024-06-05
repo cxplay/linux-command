@@ -333,3 +333,6 @@ proc                    /proc                   proc    defaults        0 0
 /dev/sdb1               /oracle                 ext2    defaults        0 0
 /dev/sdb6               /web                    ext3    defaults        0 0
 ```
+
+
+
