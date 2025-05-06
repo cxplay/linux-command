@@ -38,7 +38,7 @@ strings /bin/ls
 列出ls中所有的ASCII文本：
 
 ```shell
-cat /bin/ls strings
+cat /bin/ls | strings
 ```
 
 查找ls中包含libc的字符串，不区分大小写：
@@ -46,5 +46,3 @@ cat /bin/ls strings
 ```shell
 strings /bin/ls | grep -i libc
 ```
-
-
